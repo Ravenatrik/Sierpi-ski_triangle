@@ -8,4 +8,4 @@ The algorithm says:
 - choose any one of the three vertices randomly
 - take the next point as the mid-point of the line joining that vertex and the original point
 - repeat this, generating new points and plotting them at each step
-- after sufficient no. of iterations, you should see the fractal emerging!
+- after sufficient number of iterations, you should see the fractal emerging!
